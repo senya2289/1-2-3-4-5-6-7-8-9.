@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Employees">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Id" type="xs:int" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Position" type="xs:string" minOccurs="0" />
+                <xs:element name="Department" type="xs:string" minOccurs="0" />
+                <xs:element name="BirthDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Salary" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+      <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//Employees" />
+        <xs:field xpath="Id" />
+      </xs:unique>
+    </xs:element>
+  </xs:schema>
+  <Employees>
+    <Id>1</Id>
+    <Name>Осипенко Ксения Артемовна</Name>
+    <Position>техник программист</Position>
+    <Department>тропики</Department>
+    <BirthDate>2008-01-16T00:00:00+02:00</BirthDate>
+    <Salary>2200</Salary>
+  </Employees>
+  <Employees>
+    <Id>2</Id>
+    <Name>Шекина Дана Владимировна</Name>
+    <Position>Техник технолог</Position>
+    <Department>тяжелых штамповок</Department>
+    <BirthDate>2008-02-27T00:00:00+02:00</BirthDate>
+    <Salary>2000</Salary>
+  </Employees>
+</NewDataSet>
