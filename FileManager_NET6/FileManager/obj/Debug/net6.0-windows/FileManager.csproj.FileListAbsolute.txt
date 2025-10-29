@@ -1,0 +1,16 @@
+D:\лабы 3 курс\FileManager_NET6\FileManager_NET6\FileManager\bin\Debug\net6.0-windows\FileManager.exe
+D:\лабы 3 курс\FileManager_NET6\FileManager_NET6\FileManager\bin\Debug\net6.0-windows\FileManager.deps.json
+D:\лабы 3 курс\FileManager_NET6\FileManager_NET6\FileManager\bin\Debug\net6.0-windows\FileManager.runtimeconfig.json
+D:\лабы 3 курс\FileManager_NET6\FileManager_NET6\FileManager\bin\Debug\net6.0-windows\FileManager.dll
+D:\лабы 3 курс\FileManager_NET6\FileManager_NET6\FileManager\bin\Debug\net6.0-windows\FileManager.pdb
+D:\лабы 3 курс\FileManager_NET6\FileManager_NET6\FileManager\obj\Debug\net6.0-windows\FileManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\лабы 3 курс\FileManager_NET6\FileManager_NET6\FileManager\obj\Debug\net6.0-windows\FileManager.AssemblyInfoInputs.cache
+D:\лабы 3 курс\FileManager_NET6\FileManager_NET6\FileManager\obj\Debug\net6.0-windows\FileManager.AssemblyInfo.cs
+D:\лабы 3 курс\FileManager_NET6\FileManager_NET6\FileManager\obj\Debug\net6.0-windows\FileManager.csproj.CoreCompileInputs.cache
+D:\лабы 3 курс\FileManager_NET6\FileManager_NET6\FileManager\obj\Debug\net6.0-windows\FileManager.dll
+D:\лабы 3 курс\FileManager_NET6\FileManager_NET6\FileManager\obj\Debug\net6.0-windows\refint\FileManager.dll
+D:\лабы 3 курс\FileManager_NET6\FileManager_NET6\FileManager\obj\Debug\net6.0-windows\FileManager.pdb
+D:\лабы 3 курс\FileManager_NET6\FileManager_NET6\FileManager\obj\Debug\net6.0-windows\FileManager.genruntimeconfig.cache
+D:\лабы 3 курс\FileManager_NET6\FileManager_NET6\FileManager\obj\Debug\net6.0-windows\ref\FileManager.dll
+D:\лабы 3 курс\FileManager_NET6\FileManager_NET6\FileManager\obj\Debug\net6.0-windows\FileManager.MainForm.resources
+D:\лабы 3 курс\FileManager_NET6\FileManager_NET6\FileManager\obj\Debug\net6.0-windows\FileManager.csproj.GenerateResource.cache
